@@ -246,7 +246,7 @@ for index, path in folderPaths
         FileCreateDir, %fullPath%
     }
 }
-MsgBox, Struttura creata con successo in: %SelectedFolder%
+MsgBox, Structure successfully created in: %SelectedFolder%
 Return
 
 ; -------------------------------------------------------
@@ -257,7 +257,7 @@ return
 ; Function to show version information
 ShowVersionInfo:
 {
-    version := "1.0.0"
+    version := "1.0.1"
 
     MsgBox, 64, Version Info,
     (
@@ -301,7 +301,7 @@ GetTreePaths(currentPath, parentID, ByRef folderPaths, ByRef nodeIDs) {
 }
 
 ; -------------------------------------------------------
-; AGGIUNTA: funzione hook per colorare i bordi dei pulsanti
+; Here I added the Hook function to color button edges, otherwise can't be done.
 WM_CTLCOLORBTN(wParam, lParam) {
     global hwndAdd, hwndRemove, hwndStart, hwndRename
     global hBrushAdd, hBrushRemove, hBrushStart, hBrushRename
