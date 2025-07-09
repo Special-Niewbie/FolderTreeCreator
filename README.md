@@ -8,7 +8,7 @@
 
 <br>
 
-🔗 [Download](https://github.com/Special-Niewbie/FolderTreeCreator) 
+🔗 [Download](https://github.com/Special-Niewbie/FolderTreeCreator/releases) 
 
 <br>
 
