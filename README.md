@@ -1,11 +1,24 @@
 <img src="git_icon/FolderTreeCreator_git.png" alt="Logo" width="100" align="left">
 
+<br>
 
-
+<br>
 
 # Folder Tree Creator
 
+<br>
+
 🔗 [Download](https://github.com/Special-Niewbie/FolderTreeCreator) 
+
+<br>
+
+
+
+<p align="center">
+  <img src="git_icon/main_page.png" alt="Main Page" width="600">
+</p>
+
+<br>
 
 I created this small tool — not sure how useful it will be to others, but I personally found myself needing something simple to generate multiple folders and subfolders quickly.
 
