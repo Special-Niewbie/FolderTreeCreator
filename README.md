@@ -44,3 +44,17 @@ Instead of manually creating nested directories one by one for organizing my pho
 
 Enjoy and feel free to let me know how to improve it! 
 No setup needed — just run and go!
+
+
+
+---
+
+## Donation
+If you enjoy using this software and find it helpful and you have the possibility, please consider making a small donation to support the ongoing development of this and other projects. Your generosity is greatly appreciated!
+PayPal:
+
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/ncp/payment/WYU4A2HTRTVHG)
+
+Ko-fi:
+
+[![Donate with Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/special_niewbie)
